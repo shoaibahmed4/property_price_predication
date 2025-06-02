@@ -88,8 +88,6 @@ To build and compare multiple regression and classification models for predictin
 - LightGBM and Random Forest performed very closely behind
 - Removing duplicate rows significantly boosted results
 
-> ⚠️ Note: Removing duplicates may cause data leakage if not properly split before deletion.
-
 ---
 
 ## 🚀 How to Run
